@@ -1,0 +1,98 @@
+{
+    "__metadata__": {
+        "version": 1,
+        "saved_at": "2026-02-21T15:15:55.039007"
+    },
+    "profiles": {
+        "Diablo II - Lord of Destruction": {
+            "path": "D:\\BattlenetGames\\Diablo II\\Save",
+            "game_executable": "D:\\BattlenetGames\\Diablo II\\Diablo II.exe",
+            "game_install_dir": "D:\\BattlenetGames\\Diablo II"
+        },
+        "METAL GEAR SOLID Δ: SNAKE EATER": {
+            "path": "C:\\Users\\tonyk\\AppData\\Local\\MGSDelta\\Saved",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\MGSDelta"
+        },
+        "Devil May Cry 5": {
+            "path": "c:\\program files (x86)\\steam\\userdata\\1443259929\\601150\\remote",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\Devil May Cry 5"
+        },
+        "Nuclear Throne": {
+            "path": "C:\\Users\\tonyk\\AppData\\Local\\NuclearThrone",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\Nuclear Throne"
+        },
+        "Devil May Cry HD Collection": {
+            "path": "c:\\program files (x86)\\steam\\userdata\\1443259929\\631510\\remote",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\Devil May Cry HD Collection"
+        },
+        "DoDonPachi Resurrection": {
+            "path": "c:\\program files (x86)\\steam\\userdata\\1443259929\\464450\\remote",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\DoDonPachi Resurrection"
+        },
+        "PATAPON 1+2 REPLAY": {
+            "path": "C:\\Users\\tonyk\\AppData\\Local\\BANDAI NAMCO Entertainment\\PATAPON 1+2 REPLAY\\Saved",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\PATAPON12_REPLAY"
+        },
+        "FINAL FANTASY XII THE ZODIAC AGE": {
+            "path": "C:\\Users\\tonyk\\Documents\\My Games\\FINAL FANTASY XII THE ZODIAC AGE",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY XII THE ZODIAC AGE"
+        },
+        "METAL GEAR SOLID 3: Snake Eater - Master Collection Version": {
+            "path": "D:\\SteamLibrary\\steamapps\\common\\MGS3\\mgs3_savedata_win",
+            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\MGS3"
+        },
+        "Cult of the Lamb": {
+            "path": "D:\\Games\\Cult of the Lamb\\Cult Of The Lamb_Data",
+            "game_executable": "D:\\Games\\Cult of the Lamb\\Cult Of The Lamb.exe",
+            "game_install_dir": "D:\\Games\\Cult of the Lamb"
+        },
+        "Marvel Ultimate Alliance": {
+            "path": "C:\\Users\\tonyk\\Documents\\Activision\\Marvel Ultimate Alliance\\Save",
+            "game_executable": "D:\\Games\\Marvel - Ultimate Alliance\\MUA.exe",
+            "game_install_dir": "D:\\Games\\Marvel - Ultimate Alliance"
+        },
+        "Tony Hawk American Wasteland": {
+            "path": "D:\\Games\\THAW\\Game\\save",
+            "game_executable": "D:\\Games\\THAW\\Game\\ReTHAWedLaunch.exe",
+            "game_install_dir": "D:\\Games\\THAW\\Game"
+        },
+        "FINAL FANTASY VII REMAKE": {
+            "path": "C:\\Users\\tonyk\\Documents\\My Games\\FINAL FANTASY VII REMAKE",
+            "use_profile_overrides": false,
+            "overrides": {
+                "max_backups": 1,
+                "compression_mode": "maximum",
+                "max_source_size_mb": 1024,
+                "check_free_space_enabled": true
+            }
+        },
+        "FINAL FANTASY VII REBIRTH": {
+            "path": "C:\\Users\\tonyk\\Documents\\My Games\\FINAL FANTASY VII REBIRTH\\Steam",
+            "use_profile_overrides": false,
+            "overrides": {
+                "max_backups": 1,
+                "compression_mode": "maximum",
+                "max_source_size_mb": 1024,
+                "check_free_space_enabled": true
+            }
+        },
+        "FINAL FANTASY TACTICS - The Ivalice Chronicles": {
+            "path": "C:\\Users\\tonyk\\Documents\\My Games\\FINAL FANTASY TACTICS - The Ivalice Chronicles"
+        },
+        "Devil May Cry 4 Special Edition": {
+            "path": "C:\\Users\\tonyk\\Documents\\CAPCOM\\DEVILMAYCRY4SPECIALEDITION"
+        },
+        "Tony Hawk Underground": {
+            "path": "D:\\Games\\THUG\\Game\\Save"
+        },
+        "Tony Hawk Underground 2": {
+            "path": "D:\\Games\\THUG2\\Game\\Save"
+        },
+        "Tony Hawk Pro Skater 4": {
+            "path": "D:\\Games\\THPS4\\Game\\Save"
+        },
+        "Tony Hawk Pro Skater 3": {
+            "path": "D:\\Games\\THPS3\\Data\\Settings"
+        }
+    }
+}
