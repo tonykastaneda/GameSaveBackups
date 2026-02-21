@@ -1,0 +1,37 @@
+{
+    "backup_base_dir": "D:\\GameSaveBackups",
+    "max_backups": 1,
+    "max_source_size_mb": 1024,
+    "theme": "dark",
+    "compression_mode": "maximum",
+    "check_free_space_enabled": true,
+    "enable_global_drag_effect": false,
+    "shorten_paths_enabled": true,
+    "show_profile_icons": true,
+    "portable_config_only": false,
+    "ini_whitelist": [
+        "steam_emu.ini",
+        "user_steam_emu.ini",
+        "config.ini",
+        "settings.ini",
+        "user.ini",
+        "codex.ini",
+        "cream_api.ini",
+        "goglog.ini",
+        "CPY.ini",
+        "ds.ini"
+    ],
+    "ini_blacklist": [
+        "reshade.ini",
+        "reshade_presets.ini",
+        "dxvk.conf",
+        "d3d9.ini",
+        "d3d11.ini",
+        "opengl32.ini",
+        "graphicsconfig.ini",
+        "unins.ini",
+        "unins000.ini",
+        "browscap.ini"
+    ],
+    "minimize_to_tray_on_close": false
+}
