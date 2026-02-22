@@ -1,7 +1,7 @@
 {
     "__metadata__": {
         "version": 1,
-        "saved_at": "2026-02-21T15:15:55.039007"
+        "saved_at": "2026-02-21T18:10:42.903070"
     },
     "profiles": {
         "Diablo II - Lord of Destruction": {
@@ -93,6 +93,12 @@
         },
         "Tony Hawk Pro Skater 3": {
             "path": "D:\\Games\\THPS3\\Data\\Settings"
+        },
+        "Metal Gear Solid Peace Walker HD - Xenia": {
+            "path": "E:\\SYSTEMS\\XENIA\\Emulators\\Xenia Canary\\content\\E030000035379F79\\4B4E083C"
+        },
+        "Xenai User Profile": {
+            "path": "E:\\SYSTEMS\\XENIA\\Emulators\\Xenia Canary\\content\\E030000035379F79\\FFFE07D1"
         }
     }
 }
