@@ -1,7 +1,7 @@
 {
     "backup_base_dir": "D:\\GameSaveBackups",
     "max_backups": 1,
-    "max_source_size_mb": 1024,
+    "max_source_size_mb": 500,
     "theme": "dark",
     "compression_mode": "maximum",
     "check_free_space_enabled": true,
