@@ -1,7 +1,7 @@
 {
     "__metadata__": {
         "version": 1,
-        "saved_at": "2026-02-21T19:15:08.741121"
+        "saved_at": "2026-02-21T19:20:01.419290"
     },
     "profiles": {
         "Diablo II - Lord of Destruction": {
@@ -213,6 +213,9 @@
         },
         "EMU - Duckstation": {
             "path": "E:\\SYSTEMS\\DUCKSTATION\\memcards"
+        },
+        "Dragon Ball Xenoverse 2": {
+            "path": "C:\\Program Files (x86)\\Steam\\userdata\\1443259929\\323470"
         }
     }
 }
