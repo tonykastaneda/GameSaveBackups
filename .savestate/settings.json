@@ -33,5 +33,5 @@
         "unins000.ini",
         "browscap.ini"
     ],
-    "minimize_to_tray_on_close": false
+    "minimize_to_tray_on_close": true
 }

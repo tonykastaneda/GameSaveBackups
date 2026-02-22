@@ -1,7 +1,7 @@
 {
     "__metadata__": {
         "version": 1,
-        "saved_at": "2026-02-21T19:07:56.950145"
+        "saved_at": "2026-02-21T19:15:08.741121"
     },
     "profiles": {
         "Diablo II - Lord of Destruction": {
@@ -97,9 +97,6 @@
         "Metal Gear Solid Peace Walker HD - Xenia": {
             "path": "E:\\SYSTEMS\\XENIA\\Emulators\\Xenia Canary\\content\\E030000035379F79\\4B4E083C"
         },
-        "Xenai User Profile": {
-            "path": "E:\\SYSTEMS\\XENIA\\Emulators\\Xenia Canary\\content\\E030000035379F79\\FFFE07D1"
-        },
         "Ultimate Marvel vs. Capcom 3": {
             "path": "c:\\program files (x86)\\steam\\userdata\\1443259929\\357190\\remote",
             "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\ULTIMATE MARVEL VS. CAPCOM 3"
@@ -188,8 +185,34 @@
             "path": "C:\\Users\\tonyk\\AppData\\Roaming\\Sega\\SuperMonkeyBallBananaMania",
             "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\smbbm"
         },
-        "Tony Hawk Project 8 Plus - RPCS3": {
-            "path": "E:\\SYSTEMS\\RPCS3\\dev_hdd0\\home\\00000001\\savedata\\BLUS30011_SAVE1"
+        "EMU - RPCS3": {
+            "path": "E:\\SYSTEMS\\RPCS3\\dev_hdd0\\home\\00000001\\savedata",
+            "use_profile_overrides": false,
+            "overrides": {
+                "max_backups": 1,
+                "compression_mode": "maximum",
+                "max_source_size_mb": 1024,
+                "check_free_space_enabled": true
+            }
+        },
+        "EMU - Xenai": {
+            "path": "E:\\SYSTEMS\\XENIA\\Emulators\\Xenia Canary\\content",
+            "use_profile_overrides": false,
+            "overrides": {
+                "max_backups": 1,
+                "compression_mode": "maximum",
+                "max_source_size_mb": 1024,
+                "check_free_space_enabled": true
+            }
+        },
+        "EMU - PPSSPP": {
+            "path": "E:\\SYSTEMS\\PPSSPP\\memstick\\PSP\\SAVEDATA"
+        },
+        "EMU - PCSX2": {
+            "path": "E:\\SYSTEMS\\PCSX2\\memcards"
+        },
+        "EMU - Duckstation": {
+            "path": "E:\\SYSTEMS\\DUCKSTATION\\memcards"
         }
     }
 }
