@@ -1,7 +1,7 @@
 {
     "__metadata__": {
         "version": 1,
-        "saved_at": "2026-02-21T22:42:54.474167"
+        "saved_at": "2026-02-22T12:15:26.052481"
     },
     "profiles": {
         "Diablo II - Lord of Destruction": {
@@ -42,9 +42,16 @@
             "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\MGS3"
         },
         "Cult of the Lamb": {
-            "path": "D:\\Games\\Cult of the Lamb\\Cult Of The Lamb_Data",
+            "path": "C:\\Users\\tonyk\\AppData\\LocalLow\\Massive Monster\\Cult Of The Lamb\\saves",
             "game_executable": "D:\\Games\\Cult of the Lamb\\Cult Of The Lamb.exe",
-            "game_install_dir": "D:\\Games\\Cult of the Lamb"
+            "game_install_dir": "D:\\Games\\Cult of the Lamb",
+            "use_profile_overrides": false,
+            "overrides": {
+                "max_backups": 1,
+                "compression_mode": "maximum",
+                "max_source_size_mb": 500,
+                "check_free_space_enabled": true
+            }
         },
         "Marvel Ultimate Alliance": {
             "path": "C:\\Users\\tonyk\\Documents\\Activision\\Marvel Ultimate Alliance\\Save",
@@ -113,10 +120,6 @@
         "Super Galaxy Squadron EX Turbo": {
             "path": "C:\\Users\\tonyk\\AppData\\Local\\Super_Galaxy_Squadron_EX_Turbo",
             "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\Super Galaxy Squadron"
-        },
-        "NEO: The World Ends with You": {
-            "path": "D:\\SteamLibrary\\steamapps\\common\\NEO The World Ends with You\\NEO The World Ends with You_Data",
-            "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\NEO The World Ends with You"
         },
         "Control Ultimate Edition": {
             "path": "c:\\program files (x86)\\steam\\userdata\\1443259929\\870780\\remote",
