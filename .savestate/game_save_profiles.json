@@ -1,7 +1,7 @@
 {
     "__metadata__": {
         "version": 1,
-        "saved_at": "2026-02-21T18:23:13.238216"
+        "saved_at": "2026-02-21T19:07:56.950145"
     },
     "profiles": {
         "Diablo II - Lord of Destruction": {
@@ -187,6 +187,9 @@
         "Super Monkey Ball Banana Mania": {
             "path": "C:\\Users\\tonyk\\AppData\\Roaming\\Sega\\SuperMonkeyBallBananaMania",
             "game_install_dir": "D:\\SteamLibrary\\steamapps\\common\\smbbm"
+        },
+        "Tony Hawk Project 8 Plus - RPCS3": {
+            "path": "E:\\SYSTEMS\\RPCS3\\dev_hdd0\\home\\00000001\\savedata\\BLUS30011_SAVE1"
         }
     }
 }
