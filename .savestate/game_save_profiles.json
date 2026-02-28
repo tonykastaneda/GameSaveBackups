@@ -1,7 +1,7 @@
 {
     "__metadata__": {
         "version": 1,
-        "saved_at": "2026-02-22T13:38:46.821188"
+        "saved_at": "2026-02-27T21:35:18.908128"
     },
     "profiles": {
         "Diablo II - Lord of Destruction": {
@@ -194,6 +194,12 @@
         },
         "Diablo II Resurrected": {
             "path": "C:\\Users\\tonyk\\Saved Games\\Diablo II Resurrected"
+        },
+        "Diablo II - PlugY": {
+            "path": "D:\\BattlenetGames\\Diablo II PlugY\\Save"
+        },
+        "Diablo II - PD2": {
+            "path": "D:\\BattlenetGames\\Diablo II PD2\\Save"
         }
     }
 }
